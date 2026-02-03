@@ -19,3 +19,5 @@ USER INSTRUCTIONS: Complete the exercises in Chapter 2.
 TEST TEST TEST
 
 TOKEN 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
+
+https://www.programmer-books.com/wp-content/uploads/2019/12/Objects-First-with-Java-5th-Edition.pdf
